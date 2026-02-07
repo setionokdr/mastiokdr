@@ -1,0 +1,14 @@
+{
+  "name": "mastiokdr/permohonan-perubahan-siswa",
+  "description": "Aplikasi CodeIgniter 4 untuk permohonan perubahan data siswa",
+  "type": "project",
+  "require": {
+    "php": ">=7.4",
+    "codeigniter4/framework": "^4.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
